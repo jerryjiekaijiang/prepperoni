@@ -1,0 +1,30 @@
+.header{
+    width:100%;
+    background-color:#DEB45B;
+    position:fixed;
+    top:0;
+    left:0;
+    height:10%;
+    min-height:62px;
+}
+.Logo{
+    height:inherit;
+    width:auto;
+}
+.navigationTab{
+    color:white;
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff7c00+0,ff9028+99 */
+        
+        background: #ff7c00; /* Old browsers */
+        background: -moz-linear-gradient(top,  #ff7c00 0%, #ff9028 99%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff7c00), color-stop(99%,#ff9028)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top,  #ff7c00 0%,#ff9028 99%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top,  #ff7c00 0%,#ff9028 99%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top,  #ff7c00 0%,#ff9028 99%); /* IE10+ */
+        background: linear-gradient(to bottom,  #ff7c00 0%,#ff9028 99%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff7c00', endColorstr='#ff9028',GradientType=0 ); /* IE6-9 */
+    width:25%;
+    max-width:80px;
+}
